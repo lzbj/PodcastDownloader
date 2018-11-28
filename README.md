@@ -130,4 +130,5 @@ curl -X POST  -m 50 "http://localhost:5000/download?customername=liu&downloader_
 * [OpenStack Swift](https://wiki.openstack.org/wiki/Swift)
 
 ## License
-[Apache 2.0](LICENSE)
+This code pattern is licensed under the Apache Software License, Version 2. Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the Developer [Certificate of Origin, Version 1.1](https://developercertificate.org/) (“DCO”) and the [Apache Software License, Version 2](LICENSE).
+ASL FAQ link: http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN
