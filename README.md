@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/IBM/PodcastDownloader.svg?branch=master)](https://travis-ci.org/IBM/PodcastDownloader)
-![IBM Cloud Deployments](https://metrics-tracker.mybluemix.net/stats/527357940ca5e1027fbf945add3b15c4/badge.svg)
 
 # Create a podcast downloader using OpenWhisk
 In this Code Pattern, we will demonstrate the use of OpenWhish by creating a podcast downloader.  A light weight Flask application is set up to request and download the content, which is then retained in OpenStack Swift object storage.
