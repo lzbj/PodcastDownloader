@@ -2,7 +2,7 @@
 ![IBM Cloud Deployments](https://metrics-tracker.mybluemix.net/stats/527357940ca5e1027fbf945add3b15c4/badge.svg)
 
 # Create a podcast downloader using OpenWhisk
-In this Code Pattern, we will demonstrate the use of OpenWhish by creating a podcast downloader.  A light weight Flask application is set up to request and download the content, which is then retained in OpenStack Swift object storage.
+In this Code Pattern, we will demonstrate the use of OpenWhisk by creating a podcast downloader.  A light weight Flask application is set up to request and download the content, which is then retained in OpenStack Swift object storage.
 
 When the reader has completed this Code Pattern, they will understand how to:
 
@@ -41,8 +41,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 7. [Invoke downloader action from podcast manager](#7-invoke-downloader-action-from-podcast-manager)
 
 #### Prerequisite
-Make sure you have a [Bluemix](https://console.ng.bluemix.net) account.
-It also helpful if you are slightly familiar with basic OpenWhisk commands [Model and idea](https://github.com/IBM/openwhisk-action-trigger-rule) and have installed both the [Bluemix CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html) and the Cloud Functions [Plugin](https://console.bluemix.net/openwhisk/learn/cli).
+Make sure you have an [IBM Cloud](https://console.ng.bluemix.net) account.
+It also helpful if you are slightly familiar with basic OpenWhisk commands [Model and idea](https://github.com/IBM/openwhisk-action-trigger-rule) and have installed both the [IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html) and the Cloud Functions [Plugin](https://console.bluemix.net/openwhisk/learn/cli).
 
 #### Installation requirements:
 - Python2.7 Installed.
