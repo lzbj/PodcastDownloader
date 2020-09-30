@@ -3,7 +3,7 @@
 # Create a podcast downloader using OpenWhisk
 In this Code Pattern, we will demonstrate the use of OpenWhish by creating a podcast downloader.  A light weight Flask application is set up to request and download the content, which is then retained in OpenStack Swift object storage.
 
-When the reader has completed this Code Pattern, they will understand how to:
+When the reader has completed this Code Pattern, they will understand the way how to:
 
 * compose a microservices style app
 * utilize the power of OpenWhisk
